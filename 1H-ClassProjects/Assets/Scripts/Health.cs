@@ -1,16 +1,20 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 /// <summary>
 /// A basic health system to slap onto objects that can receive damage
 /// </summary>
 public class Health : MonoBehaviour
 {
-    private int hp;
-    [SerializeField] private int maxHP;
+    private float hp;
+    [SerializeField] private float maxHP;
+
+    public UnityEvent<float> hpUpdated;
     
     void Start()
     {
         hp = maxHP;
+        hpUpdated.Invoke(hp / maxHP);
     }
     
     /// <summary>
@@ -28,6 +32,6 @@ public class Health : MonoBehaviour
     public void DoDamage(int amount)
     {
         hp -= amount;
-        Debug.Log(hp);
+        hpUpdated.Invoke(hp / maxHP);
     }
 }
