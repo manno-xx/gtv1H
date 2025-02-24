@@ -8,7 +8,7 @@ https://gamedevbeginner.com/unity/
 **Unity's e-book repository**\
 https://unity.com/resources?filters=e-book,game%20creation
 
-**Probuilder for quick Gray-boxing (in-editor 3D modelling**\
+**Probuilder for quick Grey-boxing (in-editor 3D modelling**\
 https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/index.html
 
 **Diagram tool**\
