@@ -29,3 +29,5 @@ https://www.drawio.com/ (online version: https://app.diagrams.net/)
 **Observer Pattern** (a way to connect game objects where one needs to update the other (i.e. player and its health bar) \
 https://gamedevbeginner.com/events-and-delegates-in-unity/
 
+**Movement in Unity** \
+https://gamedevbeginner.com/how-to-move-objects-in-unity/
