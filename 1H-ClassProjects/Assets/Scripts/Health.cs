@@ -3,6 +3,7 @@ using UnityEngine.Events;
 
 /// <summary>
 /// A basic health system to slap onto objects that can receive damage
+/// 
 /// </summary>
 public class Health : MonoBehaviour
 {
