@@ -40,23 +40,23 @@ A few options to make in-game characters move
 ### Unity’s transform methods  like transform.Translate() or transform.Rotate() 
 Pros: Easy as 1,2,3 \
 Cons: Conflicting with physics \
-See: https://gamedevbeginner.com/how-to-use-transform-translate-in-unity/, https://gamedevbeginner.com/how-to-rotate-in-unity-complete-beginners-guide/  \ 
+See: https://gamedevbeginner.com/how-to-use-transform-translate-in-unity/, https://gamedevbeginner.com/how-to-rotate-in-unity-complete-beginners-guide/ 
 
 ### Unity’s Character controller \
 Pros: Physics is taken care of \
 Cons: It is what it is, little tweaking \
-https://www.youtube.com/watch?v=_QajrabyTJc  \ 
+https://www.youtube.com/watch?v=_QajrabyTJc 
 
 ### Unity’s NavMesh Agents. 3rd Person Point ‘n’ Click or NPC behaviour.
 Pros: Takes case of both physics (partially) and AI \
 Cons: Maybe bit harder to modify.  \
-See: https://docs.unity3d.com/Packages/com.unity.ai.navigation@2.0/manual/NavInnerWorkings.html  \ 
+See: https://docs.unity3d.com/Packages/com.unity.ai.navigation@2.0/manual/NavInnerWorkings.html 
 
 ### Unity’s RigidBody and it’s methods (MovePosition, MoveRotation) 
-See: https://gamedevbeginner.com/how-to-use-move-position-in-unity/ ,
+See: https://gamedevbeginner.com/how-to-use-move-position-in-unity/
 
 ### Unity’s RigidBody and forces. 
 Pros: customize ‘till you drop. \
 Cons: barebones… \
-See: https://gamedevbeginner.com/how-to-move-objects-in-unity/#move_with_physics and the ExampleProject on Blackboard. \
+See: https://gamedevbeginner.com/how-to-move-objects-in-unity/#move_with_physics and the ExampleProject on Blackboard.
 
