@@ -887,9 +887,69 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
       propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 286165308}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 286165308}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 286165308}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: UpdateBar
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateBar
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: UpdateBar
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: StatsBar, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: StatsBar, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: StatsBar, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664344292660449366, guid: af1b846270197462d8c91244970adb6e, type: 3}
+      propertyPath: hpUpdated.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
