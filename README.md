@@ -42,7 +42,7 @@ Pros: Easy as 1,2,3 \
 Cons: Conflicting with physics \
 See: https://gamedevbeginner.com/how-to-use-transform-translate-in-unity/, https://gamedevbeginner.com/how-to-rotate-in-unity-complete-beginners-guide/ 
 
-### Unity’s Character controller \
+### Unity’s Character controller
 Pros: Physics is taken care of \
 Cons: It is what it is, little tweaking \
 https://www.youtube.com/watch?v=_QajrabyTJc 
