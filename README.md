@@ -39,7 +39,7 @@ A few options to make in-game characters move
 
 ### Unity’s transform methods  like transform.Translate() or transform.Rotate() 
 Pros: Easy as 1,2,3 \
-Cons: Conflicting with physics \
+Cons: Conflicting with physics (**THIS IS A BIG THING TO CONSIDER!!!**) \
 See: https://gamedevbeginner.com/how-to-use-transform-translate-in-unity/, https://gamedevbeginner.com/how-to-rotate-in-unity-complete-beginners-guide/ 
 
 ### Unity’s Character controller
