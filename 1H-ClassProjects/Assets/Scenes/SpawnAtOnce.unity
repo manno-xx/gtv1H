@@ -456,7 +456,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacle: {fileID: 7583331586089250231, guid: e7fcabf55e38446c0aa6415af8c4c1e8, type: 3}
-  amount: 729
+  enemies: []
+  amount: 10
 --- !u!4 &1501122541
 Transform:
   m_ObjectHideFlags: 0
